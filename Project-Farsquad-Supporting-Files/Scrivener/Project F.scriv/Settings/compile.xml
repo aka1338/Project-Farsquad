@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompileSettings Template="Yes">
+    <ProjectSettings>
+        <Options>
+            <Scriptwriting>
+                <FirstPageIsTitle>Yes</FirstPageIsTitle>
+            </Scriptwriting>
+        </Options>
+    </ProjectSettings>
+    <FormatSettings>
+        <Format ID="script-screenplay">
+            <Font>Courier</Font>
+            <SectionLayouts>
+                <Type ID="09E14DB8-CBCA-40B6-82E2-1DB34FBEDBBB">TEXT-SECTION</Type>
+                <Type ID="3FFF34EC-6C1F-47AC-9C6E-D6ABCF98FE14">TEXT-SECTION</Type>
+                <Type ID="924AD3CF-7782-4CCC-B7B9-186F46AE3305">6A7D1337-34BD-4F1D-8EC3-0E6DBA2E7DAE</Type>
+            </SectionLayouts>
+            <FrontAndBackMatter>
+                <DefaultFrontMatter Add="Yes">6EE00691-B91E-46AB-A1D8-9145E3AC0E7E</DefaultFrontMatter>
+            </FrontAndBackMatter>
+        </Format>
+        <Format ID="plain-text-screenplay">
+            <SectionLayouts>
+                <Type ID="09E14DB8-CBCA-40B6-82E2-1DB34FBEDBBB">TEXT-SECTION</Type>
+                <Type ID="3FFF34EC-6C1F-47AC-9C6E-D6ABCF98FE14">TEXT-SECTION</Type>
+                <Type ID="924AD3CF-7782-4CCC-B7B9-186F46AE3305">TEXT-SECTION</Type>
+            </SectionLayouts>
+        </Format>
+    </FormatSettings>
+    <CurrentFileType>fdx</CurrentFileType>
+    <LastUsedFormats>
+        <Print>script-screenplay</Print>
+        <fdx>script-screenplay</fdx>
+        <doc>script-screenplay</doc>
+        <pdf>script-screenplay</pdf>
+        <Fountain>script-screenplay</Fountain>
+        <odt>script-screenplay</odt>
+        <rtf>script-screenplay</rtf>
+        <txt>plain-text-screenplay</txt>
+        <rtfd>script-screenplay</rtfd>
+        <docx>script-screenplay</docx>
+    </LastUsedFormats>
+</CompileSettings>

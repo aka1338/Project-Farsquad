@@ -1,0 +1,1 @@
+Serves as the opening of the game, where the player also gets to choose their character. The PLAYER starts their groggy morning after sleeping in, and deciding who they’re going to hang out with today. Note that BOLDED text denotes PLAYER thoughts.

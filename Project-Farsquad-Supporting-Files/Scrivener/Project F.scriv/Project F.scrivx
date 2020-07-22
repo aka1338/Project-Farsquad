@@ -1,0 +1,1051 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Identifier="6A13D3B9-5C1B-4598-9113-95AE61607165" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="nozone" Author="John Paul Apolinar" Modified="2020-07-20 12:30:39 -0700" ModID="39A83E15-3E3B-4A4A-A1BE-54059174A281">
+    <Binder>
+        <BinderItem UUID="4BC5A8B2-ECF0-4276-95B8-180491ED1288" Type="Text" Created="2020-05-13 15:54:54 -0700" Modified="2020-05-13 15:54:54 -0700">
+            <Title>Screenplay Format</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Information</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem UUID="3C57A925-E91E-4D5D-A1D6-F16A2F7A3D35" Type="DraftFolder" Created="2020-05-13 15:54:54 -0700" Modified="2020-05-13 15:54:54 -0700">
+            <Title>Screenplay</Title>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentUUIDs>18B50938-8DC6-484A-9262-BDE5D832B800</SelectedSubdocumentUUIDs>
+                <CorkboardSettings>
+                    <Arrangement>Linear</Arrangement>
+                    <FreeformCorkboardDocuments>
+                        <IndexCardBinderUUID Position="0.176667,0.06" TimeStamp="2020-05-16 03:25:28 -0700">18B50938-8DC6-484A-9262-BDE5D832B800</IndexCardBinderUUID>
+                    </FreeformCorkboardDocuments>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem UUID="18B50938-8DC6-484A-9262-BDE5D832B800" Type="Text" Created="2020-05-13 16:02:12 -0700" Modified="2020-05-16 22:07:47 -0700">
+                    <Title>Opener</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>1597,71</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="AD24FEAA-4F2B-493D-A829-C52EFEF507BD" Type="Folder" Created="2020-05-23 18:21:49 -0700" Modified="2020-05-23 18:22:01 -0700">
+                    <Title>Flo/Carla</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentUUIDs>62B87685-EBFA-4962-9958-C474FFA1227B</SelectedSubdocumentUUIDs>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem UUID="E5C52E21-F2C2-4791-9416-38E4C957317B" Type="Text" Created="2020-05-13 17:09:06 -0700" Modified="2020-07-15 13:59:41 -0700">
+                            <Title>Flo/Carla Route Opener</Title>
+                            <MetaData>
+                                <StatusID>5</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>118,72</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>8463,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="51E3858A-5800-4F68-988D-E1468342CDE4" Type="Text" Created="2020-05-23 18:22:23 -0700" Modified="2020-07-15 15:30:55 -0700">
+                            <Title>Flo End</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>119,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>95,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="62B87685-EBFA-4962-9958-C474FFA1227B" Type="Text" Created="2020-05-23 18:22:18 -0700" Modified="2020-07-15 17:12:02 -0700">
+                            <Title>Carla End</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>246,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>1255,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="7B2EA521-15AC-4261-A8EC-E4D936B88753" Type="Folder" Created="2020-05-23 18:22:32 -0700" Modified="2020-05-23 18:22:38 -0700">
+                    <Title>Michelle/Noelle</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentUUIDs>5C7F611E-9164-47B4-8BBB-EF74BE854A1C</SelectedSubdocumentUUIDs>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem UUID="5C7F611E-9164-47B4-8BBB-EF74BE854A1C" Type="Text" Created="2020-05-13 17:09:06 -0700" Modified="2020-07-15 15:07:06 -0700">
+                            <Title>Michelle/Noelle Route Opener</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,166</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>3879,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="1EA53189-E8EC-47E8-BD0F-303F62A0CE7F" Type="Text" Created="2020-05-23 18:22:44 -0700" Modified="2020-07-20 12:30:39 -0700">
+                            <Title>Michelle Route</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>166,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>2126,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="D85AFAF8-EC8E-4D21-AAED-A627CE86ACAF" Type="Text" Created="2020-05-23 18:22:49 -0700" Modified="2020-05-23 18:22:51 -0700">
+                            <Title>Noelle Route</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="8759D8FD-7F06-413F-BCDC-A838EA02947E" Type="Text" Created="2020-05-23 18:24:59 -0700" Modified="2020-05-23 18:25:01 -0700">
+                            <Title>Harem End</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="94273EED-446F-4774-B3F8-BCFA36D69E26" Type="Folder" Created="2020-05-23 18:25:07 -0700" Modified="2020-05-23 18:25:20 -0700">
+                    <Title>Jo' Pauline/Hira</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentUUIDs>3CCB2E3C-C7F9-4E95-9B31-02C163D1E0AE</SelectedSubdocumentUUIDs>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem UUID="3CCB2E3C-C7F9-4E95-9B31-02C163D1E0AE" Type="Text" Created="2020-05-13 17:09:06 -0700" Modified="2020-05-23 18:26:28 -0700">
+                            <Title>Jo' Pauline/Hira Route Opener</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="CF7C339F-78E9-4D8F-88CB-2073DF1E09A6" Type="Text" Created="2020-05-23 18:25:33 -0700" Modified="2020-05-23 18:25:42 -0700">
+                            <Title>Jo' Pauline Route</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="B7806126-98F5-417A-BE63-EFA8863BCADA" Type="Text" Created="2020-05-23 18:25:45 -0700" Modified="2020-05-23 18:25:48 -0700">
+                            <Title>Hira Route</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="F99DAE13-A87B-4039-966E-A1764F57F437" Type="Text" Created="2020-05-23 18:25:51 -0700" Modified="2020-05-23 18:25:55 -0700">
+                            <Title>Harem End</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="AF93D49D-E774-4F0A-8D06-70826A03E508" Type="Folder" Created="2020-05-23 18:26:07 -0700" Modified="2020-05-23 18:26:15 -0700">
+                    <Title>Jemina/Callie </Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentUUIDs>E461552C-1530-4A7D-9997-582C3763E731</SelectedSubdocumentUUIDs>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem UUID="E461552C-1530-4A7D-9997-582C3763E731" Type="Text" Created="2020-05-13 17:09:06 -0700" Modified="2020-05-23 18:27:54 -0700">
+                            <Title>Jemina/Callie Route Opener</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="008F95E6-67D1-4792-ABC5-A3769A1D9C2B" Type="Text" Created="2020-05-23 18:26:41 -0700" Modified="2020-05-23 18:26:43 -0700">
+                            <Title>Jemina Route</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="CA0E12B4-DD4A-4EEF-9284-D7F98B532485" Type="Text" Created="2020-05-23 18:26:46 -0700" Modified="2020-05-23 18:26:48 -0700">
+                            <Title>Callie Route</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="7F70FBB0-703C-457A-ADC6-93D2A6F19A79" Type="Text" Created="2020-05-23 18:26:55 -0700" Modified="2020-05-23 18:26:57 -0700">
+                            <Title>Harem End</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="49C3A6A7-8A00-404F-BF10-FD476590B8C4" Type="Folder" Created="2020-05-23 18:27:04 -0700" Modified="2020-05-23 18:27:12 -0700">
+                    <Title>Seline/Jhivi </Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="39D72B0D-95B4-45E7-AF24-B3B58F4362F3" Type="Text" Created="2020-05-13 17:09:06 -0700" Modified="2020-05-27 17:23:14 -0700">
+                            <Title>Selina/Jhivi Route Opener</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>50,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="6D091A03-C451-4CC9-8CE4-2C02104A4467" Type="Text" Created="2020-05-23 18:27:23 -0700" Modified="2020-05-23 18:27:25 -0700">
+                            <Title>Selina Route</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="2284560E-198B-4736-91DF-1D39BCB78418" Type="Text" Created="2020-05-23 18:27:29 -0700" Modified="2020-05-23 18:27:31 -0700">
+                            <Title>Jhivi Route</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="09DFE091-E3A5-409F-BF24-11D6B0561A0B" Type="Text" Created="2020-05-23 18:27:33 -0700" Modified="2020-05-23 18:27:35 -0700">
+                            <Title>Harem End</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="7194FEC0-407B-4FDF-9284-410849D0BBC9" Type="Folder" Created="2020-05-23 18:27:41 -0700" Modified="2020-05-23 18:27:46 -0700">
+                    <Title>Eden.Antoinette</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="A3F787D7-5851-4D89-B801-5FD993BC7643" Type="Text" Created="2020-05-13 17:09:06 -0700" Modified="2020-05-23 18:28:02 -0700">
+                            <Title>Eden/Antoinette Route Opener</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="957AAFB8-B1AA-4FB2-AAE4-419137FB7603" Type="Text" Created="2020-05-23 18:28:06 -0700" Modified="2020-05-23 18:28:09 -0700">
+                            <Title>Eden Route </Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="87FBFBFD-998D-4DC1-A3C6-94D1485E6F28" Type="Text" Created="2020-05-23 18:28:13 -0700" Modified="2020-05-23 18:28:17 -0700">
+                            <Title>Antoinette Route</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="D36399EB-C13B-4908-80CC-B3A0EA889FC0" Type="Text" Created="2020-05-23 18:28:27 -0700" Modified="2020-05-23 18:28:30 -0700">
+                            <Title>Harem End</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="6EE00691-B91E-46AB-A1D8-9145E3AC0E7E" Type="Folder" Created="2020-05-13 15:54:54 -0700" Modified="2020-05-13 15:54:54 -0700">
+            <Title>Front Matter</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Front Matter</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="09250003-E83D-40B9-9003-A3805902D5F2" Type="Text" Created="2020-05-13 15:54:54 -0700" Modified="2020-05-13 15:54:54 -0700">
+                    <Title>Title Page</Title>
+                    <MetaData>
+                        <SectionType>924AD3CF-7782-4CCC-B7B9-186F46AE3305</SectionType>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>15,12</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="55A25815-1DD9-4C73-930B-2DAFDF44E64A" Type="Folder" Created="2020-05-13 15:54:54 -0700" Modified="2020-05-13 15:54:54 -0700">
+            <Title>Characters</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Characters (Photo)</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentUUIDs>1063DB9B-518A-4518-8E73-53111C602CBC</SelectedSubdocumentUUIDs>
+            </CorkboardAndOutliner>
+            <DefaultChildTemplateUUID>028F65FD-826A-4D5E-B70A-62E5D31CC3D6</DefaultChildTemplateUUID>
+            <Children>
+                <BinderItem UUID="717A6A93-32EA-4F47-B6C9-52143A20BF67" Type="Text" Created="2020-05-13 15:58:15 -0700" Modified="2020-05-16 01:53:49 -0700">
+                    <Title>Laz</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="9FE28DB9-3849-495C-BB06-209C80D6FC8B" Type="Text" Created="2020-05-13 15:58:24 -0700" Modified="2020-05-16 01:53:49 -0700">
+                    <Title>Dean</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="FCA6EC5C-88C8-49D6-B304-FAEDAF686B8A" Type="Text" Created="2020-05-13 15:58:10 -0700" Modified="2020-05-16 01:53:49 -0700">
+                    <Title>Arin</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="2FC91A52-4612-4781-8AE8-DAC28BC868CB" Type="Text" Created="2020-05-13 15:56:51 -0700" Modified="2020-05-16 01:53:49 -0700">
+                    <Title>Carla</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="50D3F362-02D5-4230-831C-F7EDE636F6B9" Type="Text" Created="2020-05-13 15:57:48 -0700" Modified="2020-05-16 01:53:49 -0700">
+                    <Title>Flon</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="7A648C5E-92ED-4907-8215-589411B71300" Type="Text" Created="2020-05-13 15:55:36 -0700" Modified="2020-05-16 01:53:49 -0700">
+                    <Title>Michelle</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="C1B411CB-D373-414E-AAEB-38E4373C36FE" Type="Text" Created="2020-05-13 15:55:56 -0700" Modified="2020-05-16 01:54:35 -0700">
+                    <Title>Noelle</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="839DD874-5582-4FD5-A16E-8B46B081DAAC" Type="Text" Created="2020-05-13 15:55:08 -0700" Modified="2020-05-16 01:54:35 -0700">
+                    <Title>Jo' Pauline</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="5A5987C6-8F82-4B19-9F68-83A0AD6F88CA" Type="Text" Created="2020-05-13 15:56:11 -0700" Modified="2020-05-16 01:54:35 -0700">
+                    <Title>Hira</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="DF36BBB8-844C-4174-A8DC-2CCBE6357072" Type="Text" Created="2020-05-13 15:56:05 -0700" Modified="2020-05-16 01:54:35 -0700">
+                    <Title>Callie</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="D85A3E64-7CEB-48C4-A699-4C3D6153A9F3" Type="Text" Created="2020-05-13 15:57:32 -0700" Modified="2020-05-16 01:54:35 -0700">
+                    <Title>Jemina</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="7209BEF6-4E42-47D4-9E7A-302D678A6BE0" Type="Text" Created="2020-05-13 15:56:16 -0700" Modified="2020-05-16 01:55:05 -0700">
+                    <Title>Jhin</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="E39D94CF-10D7-4807-91CA-C5CB37C58032" Type="Text" Created="2020-05-13 15:57:41 -0700" Modified="2020-05-16 01:55:57 -0700">
+                    <Title>Selina</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="D98289C6-8E82-48C7-9B02-51D41A14AEFE" Type="Text" Created="2020-05-13 15:57:00 -0700" Modified="2020-05-16 01:55:57 -0700">
+                    <Title>Antoinette</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="1063DB9B-518A-4518-8E73-53111C602CBC" Type="Text" Created="2020-05-13 15:57:09 -0700" Modified="2020-05-16 01:55:57 -0700">
+                    <Title>Eden</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="F1665E65-4B6A-4FEB-BC2A-49D8DFDEBCB9" Type="Image" Created="2020-05-17 15:41:32 -0700" Modified="2020-05-17 15:42:54 -0700">
+                    <Title>Character Sheet</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>png</FileExtension>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="BF2494D2-793A-4113-90B8-269A5D382A91" Type="Folder" Created="2020-05-13 15:54:54 -0700" Modified="2020-05-13 15:54:54 -0700">
+            <Title>Places</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Locations (Map)</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <DefaultChildTemplateUUID>AAAECD1E-912A-467D-B722-836F749891DD</DefaultChildTemplateUUID>
+        </BinderItem>
+        <BinderItem UUID="9C83B8CC-A802-4AE8-B3AE-38CD6B7FF1ED" Type="Folder" Created="2020-05-13 15:54:54 -0700" Modified="2020-05-13 15:54:54 -0700">
+            <Title>Notes</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Notes (Yellow Notepad)</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentUUIDs>8B39054A-527E-4D4F-9F6F-5A1493799237</SelectedSubdocumentUUIDs>
+            </CorkboardAndOutliner>
+        </BinderItem>
+        <BinderItem UUID="56F3251B-33DB-489A-8F16-B05AE53D648A" Type="ResearchFolder" Created="2020-05-13 15:54:54 -0700" Modified="2020-05-13 15:54:54 -0700">
+            <Title>Research</Title>
+            <Children>
+                <BinderItem UUID="3544F9B7-6401-4963-8960-53F6921DFDC4" Type="PDF" Created="2020-05-13 15:54:54 -0700" Modified="2020-05-13 15:54:54 -0700">
+                    <Title>Sample Script</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>1</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="0B19D630-7D8D-4209-9D3D-205B3441842A" Type="Folder" Created="2020-05-13 15:54:54 -0700" Modified="2020-05-13 15:54:54 -0700">
+            <Title>Template Sheets</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="028F65FD-826A-4D5E-B70A-62E5D31CC3D6" Type="Text" Created="2020-05-13 15:54:54 -0700" Modified="2020-05-13 15:54:54 -0700">
+                    <Title>Character Sketch</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IconFileName>Characters (Character Sheet)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,14</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="AAAECD1E-912A-467D-B722-836F749891DD" Type="Text" Created="2020-05-13 15:54:54 -0700" Modified="2020-05-13 15:54:54 -0700">
+                    <Title>Setting Sketch</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Locations (Location Sheet)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,15</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="F4B0825A-2389-47FD-9E79-22D353C5F555" Type="TrashFolder" Created="2020-05-13 15:54:54 -0700" Modified="2020-05-13 15:54:54 -0700">
+            <Title>Trash</Title>
+            <Children>
+                <BinderItem UUID="8ABCEEE0-4893-4EA2-93DF-5B6F80961873" Type="Folder" Created="2020-05-13 15:58:36 -0700" Modified="2020-05-13 15:58:50 -0700">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="1938150C-AE2B-449D-877D-7562C3A19ED3" Type="Text" Created="2020-05-13 15:54:54 -0700" Modified="2020-05-13 16:01:32 -0700">
+                    <Title>Opener</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="42F57B57-0D38-428D-B832-A8B0A04DB88E" Type="Folder" Created="2020-05-13 16:41:32 -0700" Modified="2020-05-13 16:41:32 -0700">
+                    <Title>New Folder</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="C010145D-470F-4A77-866F-D1552ADA748B" Type="Folder" Created="2020-05-13 15:59:03 -0700" Modified="2020-05-13 15:59:11 -0700">
+                    <Title>Protagonist Choices</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="1CA0178F-088D-4CA3-B368-85CB38BB0A2D" Type="Folder" Created="2020-05-13 15:59:29 -0700" Modified="2020-05-13 16:40:58 -0700">
+                    <Title>Girls</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="24F9710E-7819-4CF3-B767-88EAADA15340" Type="Folder" Created="2020-05-13 16:20:27 -0700" Modified="2020-05-13 16:20:34 -0700">
+                    <Title>Flon/Carla Route</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="B8B6EAA5-177C-4093-9615-00C68D10B19C" Type="Folder" Created="2020-05-13 16:25:18 -0700" Modified="2020-05-13 16:26:02 -0700">
+                    <Title>Michelle/Noelle Route</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="AFCA02C6-6E8F-44F5-B803-AA0B52618808" Type="Folder" Created="2020-05-13 16:32:45 -0700" Modified="2020-05-13 16:32:59 -0700">
+                    <Title>Jo' Pauline/Hira Route</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="D66C9B61-CA75-41E9-AFE9-81C17BB37300" Type="Folder" Created="2020-05-13 16:37:52 -0700" Modified="2020-05-13 16:38:01 -0700">
+                    <Title>Jemina/Callie Route</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="ABCA7A83-3335-4361-AA3B-0118A6CB6AB2" Type="Folder" Created="2020-05-13 16:40:15 -0700" Modified="2020-05-13 16:40:20 -0700">
+                    <Title>Selina/Jhin Route</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="7F23AC06-03A0-46B6-B937-B9D2A058E368" Type="Folder" Created="2020-05-13 16:40:35 -0700" Modified="2020-05-13 16:40:40 -0700">
+                    <Title>Antoinette/Eden Route</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="9D13BA8F-89A9-4566-9615-4FFA7D0FEC53" Type="Text" Created="2020-05-13 16:53:38 -0700" Modified="2020-05-13 16:53:38 -0700">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="777D02B8-BED1-4E1A-AA30-A012CD335698" Type="Text" Created="2020-05-13 16:53:42 -0700" Modified="2020-05-13 16:53:42 -0700">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="6A6904B9-628C-4711-B935-5A510EBDF2E9" Type="Text" Created="2020-05-13 17:08:24 -0700" Modified="2020-05-13 17:08:24 -0700">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="EBA3070A-AA9D-4144-93C9-99CF82148B9D" Type="Text" Created="2020-05-13 17:08:34 -0700" Modified="2020-05-13 17:08:34 -0700">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="29A43407-CDBC-435C-87FF-0099C9989A06" Type="Text" Created="2020-05-13 15:55:36 -0700" Modified="2020-05-13 15:55:46 -0700">
+                    <Title>Michelle</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="0E2A9DD0-B3AE-4B29-A1BF-A3C037B7E777" Type="Text" Created="2020-05-13 15:55:56 -0700" Modified="2020-05-13 15:56:02 -0700">
+                    <Title>Noelle</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="EBF8D685-9EE4-4D32-8DD4-3DF55167BCE7" Type="Text" Created="2020-05-13 15:55:08 -0700" Modified="2020-05-13 15:55:32 -0700">
+                    <Title>Jo' Pauline</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="A403C2D1-52DD-4664-B189-D08CA0EE5276" Type="Text" Created="2020-05-13 15:56:11 -0700" Modified="2020-05-13 15:56:13 -0700">
+                    <Title>Hira</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="37A6DA3A-4F66-4697-9C93-A9E5C2B1BDC7" Type="Text" Created="2020-05-13 15:56:16 -0700" Modified="2020-05-13 15:56:38 -0700">
+                    <Title>Jhin</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="E1440EA4-2F81-49ED-A77C-EA43E9BBA570" Type="Text" Created="2020-05-13 15:57:41 -0700" Modified="2020-05-13 15:57:45 -0700">
+                    <Title>Selina</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="AAA6E4E1-F54E-4E8E-AB9E-6042C130362B" Type="Text" Created="2020-05-13 15:57:00 -0700" Modified="2020-05-13 15:57:06 -0700">
+                    <Title>Antoinette</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="09B57A5F-3B34-45CE-BCC0-037894B916E1" Type="Text" Created="2020-05-13 15:57:09 -0700" Modified="2020-05-13 15:57:10 -0700">
+                    <Title>Eden</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="0D65F507-9C07-43B8-977E-E45C44CAE835" Type="Folder" Created="2020-05-13 16:00:18 -0700" Modified="2020-05-13 16:37:38 -0700">
+                    <Title>Flon/Carla Route</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="4A5122BD-F404-4630-A93C-C1064DB0A282" Type="Folder" Created="2020-05-13 16:25:18 -0700" Modified="2020-05-13 16:35:47 -0700">
+                    <Title>Michelle/Noelle Route</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="0ED9B6F1-A3E1-4E48-AD2B-BE7426C565B2" Type="Text" Created="2020-05-13 17:09:40 -0700" Modified="2020-05-13 17:11:39 -0700">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="27686A8B-E8F1-4DA6-9BE4-1A2AE2E5110E" Type="Folder" Created="2020-05-13 16:32:45 -0700" Modified="2020-05-13 16:37:06 -0700">
+                    <Title>Jo' Pauline/Hira Route</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="B8C3BC4E-9E4C-4B32-851B-CE3A0E09A98A" Type="Text" Created="2020-05-13 17:09:44 -0700" Modified="2020-05-13 17:10:11 -0700">
+                            <Title>Jo' Pauline/Hira Route</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="837C7D3C-1A2A-4652-B66C-2300C9E2BF0A" Type="Folder" Created="2020-05-13 16:37:52 -0700" Modified="2020-05-13 16:40:06 -0700">
+                    <Title>Jemina/Callie Route</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="7AE5A3BC-4E6C-4007-97AC-425407F2DDCB" Type="Text" Created="2020-05-13 17:09:48 -0700" Modified="2020-05-13 17:10:19 -0700">
+                            <Title>Jemina/Callie Route</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="1048AA4F-839F-47CE-B9F8-7731B4B81035" Type="Folder" Created="2020-05-13 16:40:15 -0700" Modified="2020-05-13 17:17:10 -0700">
+                    <Title>Selina/Jhin Route</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="84CC4939-9D64-48C1-A226-2EC30D881A6E" Type="Text" Created="2020-05-13 17:09:52 -0700" Modified="2020-05-13 17:10:24 -0700">
+                            <Title>Selina/Jhin Route</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="DB4BBC26-DDC5-40C3-AADA-9A5A321F79BD" Type="Folder" Created="2020-05-13 16:40:35 -0700" Modified="2020-05-13 17:17:10 -0700">
+                    <Title>Antoinette/Eden Route</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="728C767B-4A0F-427B-9774-20DAA2422F08" Type="Text" Created="2020-05-13 17:09:55 -0700" Modified="2020-05-13 17:10:29 -0700">
+                            <Title>Antoinette/Eden Route</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="8B39054A-527E-4D4F-9F6F-5A1493799237" Type="Image" Created="2020-05-17 15:41:32 -0700" Modified="2020-05-17 15:41:32 -0700">
+                    <Title>update</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>png</FileExtension>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <MediaSettings>
+                        <ImageScaleFactor>1.0</ImageScaleFactor>
+                        <ImageRotation>None</ImageRotation>
+                        <ImageScalesProportionally>No</ImageScalesProportionally>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="07737459-BBD0-49D6-A9F0-3FB4FE065B0D" Type="Folder" Created="2020-05-23 18:25:26 -0700" Modified="2020-05-23 18:25:26 -0700">
+                    <Title>New Folder</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="A7C78255-176A-4A4E-8CF4-AA29C45E4860" Type="Text" Created="2020-05-23 18:24:41 -0700" Modified="2020-05-27 17:21:04 -0700">
+                    <Title>Harem End</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="6AE1732B-8E66-4B56-B7E2-C7B1462B31DB" Color="0.015924 0.126521 0.159696">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="68DB4E73-0B33-4FEE-9600-053ED547B6DC" Color="0.084464 0.183137 0.21437">
+            <Title>Search Results</Title>
+        </Collection>
+    </Collections>
+    <SectionTypes>
+        <TypeDefinitions>
+            <Type ID="09E14DB8-CBCA-40B6-82E2-1DB34FBEDBBB">Group</Type>
+            <Type ID="3FFF34EC-6C1F-47AC-9C6E-D6ABCF98FE14">Scene</Type>
+            <Type ID="924AD3CF-7782-4CCC-B7B9-186F46AE3305">Front Matter</Type>
+        </TypeDefinitions>
+        <LevelTypes>
+            <Folders>
+                <Type>09E14DB8-CBCA-40B6-82E2-1DB34FBEDBBB</Type>
+            </Folders>
+            <Containers>
+                <Type>3FFF34EC-6C1F-47AC-9C6E-D6ABCF98FE14</Type>
+            </Containers>
+            <Files>
+                <Type>3FFF34EC-6C1F-47AC-9C6E-D6ABCF98FE14</Type>
+            </Files>
+        </LevelTypes>
+    </SectionTypes>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="3" Color="0.993495 0.701207 0.732587">Red</Label>
+            <Label ID="4" Color="0.995418 0.790946 0.652385">Orange</Label>
+            <Label ID="5" Color="0.997722 0.89273 0.652569">Yellow</Label>
+            <Label ID="6" Color="0.715855 0.948712 0.697692">Green</Label>
+            <Label ID="7" Color="0.702319 0.888276 0.974252">Blue</Label>
+            <Label ID="8" Color="0.957566 0.766747 0.999616">Purple</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="1">To Do</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-21 03:44:59 -0700" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2020-05-17 01:00:00 -0700" ResetType="ProjectClose" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="1295" Characters="7746" Date="2020-07-07 13:40:17 -0700"/>
+    </ProjectTargets>
+    <RecentWritingHistory Date="2020-07-20 00:00:00 -0700">
+        <DraftWordCount>18</DraftWordCount>
+        <DraftCharCount>113</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
+    </RecentWritingHistory>
+    <TemplateFolderUUID>0B19D630-7D8D-4209-9D3D-205B3441842A</TemplateFolderUUID>
+    <BookmarksFolderUUID>9C83B8CC-A802-4AE8-B3AE-38CD6B7FF1ED</BookmarksFolderUUID>
+    <AutoCompleteList>
+        <Completion Scope="0">A Messy Room</Completion>
+        <Completion Scope="2">Player</Completion>
+        <Completion Scope="2">Plon</Completion>
+        <Completion Scope="2">Carla</Completion>
+        <Completion Scope="2">Flon</Completion>
+        <Completion Scope="2">Flo</Completion>
+        <Completion Scope="2">Narrator</Completion>
+        <Completion Scope="0">Outside Of The Player’s House</Completion>
+        <Completion Scope="0">Carla’s House</Completion>
+        <Completion Scope="2">Dean</Completion>
+        <Completion Scope="2">Flo And Carla</Completion>
+        <Completion Scope="2">Nara</Completion>
+        <Completion Scope="0">Player Resting On Flo’s Lap</Completion>
+        <Completion Scope="0">Carla Next To Player</Completion>
+        <Completion Scope="2">Michelle</Completion>
+        <Completion Scope="2">Howie</Completion>
+        <Completion Scope="2">Noelle</Completion>
+        <Completion Scope="2">Noele</Completion>
+        <Completion Scope="2">Noelle And Narrator</Completion>
+        <Completion Scope="2">Everyone</Completion>
+        <Completion Scope="0">Player’s Room</Completion>
+        <Completion Scope="2">Narrar</Completion>
+        <Completion Scope="0">Player’s House</Completion>
+        <Completion Scope="0">Michelle Holding A Bottle Of Greygoose Outside Of The Player’s House</Completion>
+    </AutoCompleteList>
+    <PrintSettings PaperSize="611.999972,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+</ScrivenerProject>
