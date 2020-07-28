@@ -29,10 +29,15 @@ label start:
 
     show carla happy at cpos2
     with dissolve 
-    
+ 
+    f "This is kind of embarrassing..."
+
     # These display lines of dialogue.
 
     f "So, where we droppin' chief?"
+
+    f "don't make me say it"
+
 
     # This ends the game.
 
