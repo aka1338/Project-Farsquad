@@ -3,42 +3,103 @@
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 
-define f = Character("Flo")
-define c = Character("Carla")
-
 # The game starts here.
 
 # Note that Ren'py does not take in to account order of files and treats the script as one large collection of scripts. 
 # Labels are therefore global, so keep that in mind. 
 
+
+
 label start:
 
-    # Show a background. This uses a placeholder by default, but you can
-    # add a file (named either "bg room.png" or "bg room.jpg") to the
-    # images directory to show it.
+# Letting the player decide their name. 
+define pov = Character("[povname]")
 
-    scene bg test
-    with fade
+""
 
-    # This shows a character sprite. A placeholder is used, but you can
-    # replace it by adding a file named "eileen happy.png" to the images
-    # directory.
+python:
+    povname = renpy.input("What is your name?")
+    povname = povname.strip()
 
-    show flo happy at cpos1
-    with dissolve
+    if not povname:
+         povname = "Default Guy"
 
-    show carla happy at cpos2
-    with dissolve 
- 
-    f "This is kind of embarrassing..."
+"You feel the heavy weight of sleepiness weighing you down..."
 
-    # These display lines of dialogue.
+# an alarm goes off in the background
 
-    f "So, where we droppin' chief?"
+# Show a background. This uses a placeholder by default, but you can
+# add a file (named either "bg room.png" or "bg room.jpg") to the
+# images directory to show it.
+show bg placeholder("bg")
+with dissolve
 
-    f "don't make me say it"
+"You grabbed your phone which was face down on the bed."
 
+"You knew where to press the stop alarm button by muscle memory alone."
 
-    # This ends the game.
+pov "Finally, some silence..."
 
-    return
+pov "..."
+
+#play discord notif sound here
+
+pov "......"
+
+#play discord notif sound here 
+
+pov "Huh?"
+
+pov "What time is it...?"
+
+"Flipping your phone over, you checked the time."
+
+pov "..."
+
+pov "3:15PM?!?"
+
+pov "Shit!"
+
+pov "I was supposed to hang out with the girls today... "
+
+pov "I really shouldn't have stayed up so late..."
+
+"You remember that all your friends were all doing something today."
+
+"You were scheduled to meet them up by 12 o’clock..."
+
+pov "...but now it's almost four."
+
+"You let out a heavy sigh."
+
+pov "Well, at least I know nobody's gonna be at the meeting place..."
+
+"Unlocking your phone, you see that you have over 30 text messages and calls from many people."
+
+"It pains you to think about how long they spent trying to reach you."
+
+#phone rings 
+
+pov "?"
+
+"It's Flo. One of the girls you were supposed to hang out with today."
+
+menu: 
+     "Answer the phone?"
+
+     "Answer.": 
+          "You decided to answer the phone."
+          #jump to flo/carla
+
+     "Don't answer.": 
+          "You decided against answering the phone."
+
+# This ends the game.
+
+"You feel bad enough that you didn't go to the get together, so pretending like you ended up sleeping the entire day makes you feel a little better."
+
+#another discord notification rings out.
+
+pov "Huh?"
+
+return

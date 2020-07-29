@@ -1,30 +1,22 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
 While running game code:
-  File "game/scripts/opener.rpy", line 25, in script
-    with heartbeat
-Exception: Parameter 'new_widget' is not known by ATL Transform.
+  File "game/scripts/opener.rpy", line 30, in script
+    f "This is kind of embarrassing..."
+Exception: Sayer 'f' is not defined.
 
 -- Full Traceback ------------------------------------------------------------
 
 Full traceback:
-  File "game/scripts/opener.rpy", line 25, in script
-    with heartbeat
-  File "/Applications/Renpy/renpy/ast.py", line 1389, in execute
-    renpy.exports.with_statement(trans, paired)
-  File "/Applications/Renpy/renpy/exports.py", line 1601, in with_statement
-    return renpy.game.interface.do_with(trans, paired, clear=clear)
-  File "/Applications/Renpy/renpy/display/core.py", line 2251, in do_with
-    clear=clear)
-  File "/Applications/Renpy/renpy/display/core.py", line 2702, in interact
-    repeat, rv = self.interact_core(preloads=preloads, trans_pause=trans_pause, **kwargs)
-  File "/Applications/Renpy/renpy/display/core.py", line 3047, in interact_core
-    new_widget=layers_root)
-  File "/Applications/Renpy/renpy/atl.py", line 441, in __call__
-    raise Exception('Parameter %r is not known by ATL Transform.' % k)
-Exception: Parameter 'new_widget' is not known by ATL Transform.
+  File "game/scripts/opener.rpy", line 30, in script
+    f "This is kind of embarrassing..."
+  File "E:\renpy-7.3.5-sdk\renpy\ast.py", line 678, in execute
+    who = eval_who(self.who, self.who_fast)
+  File "E:\renpy-7.3.5-sdk\renpy\ast.py", line 576, in eval_who
+    raise Exception("Sayer '%s' is not defined." % who.encode("utf-8"))
+Exception: Sayer 'f' is not defined.
 
-Darwin-19.5.0-x86_64-i386-64bit
+Windows-8-6.2.9200
 Ren'Py 7.3.5.606
 Project F 1.0
-Mon Jul 13 21:42:17 2020
+Tue Jul 28 22:11:14 2020

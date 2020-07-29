@@ -2,7 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/scripts/opener.rpy", line 39: Tab characters are not allowed in Ren'Py scripts.
+File "game/scripts/opener.rpy", line 90: choice menuitem expects a non-empty block.
+    "Answer.": 
+               ^
 
 Ren'Py Version: Ren'Py 7.3.5.606
-Tue Jul 28 00:20:31 2020
+Tue Jul 28 22:50:45 2020
