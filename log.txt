@@ -1,4 +1,4 @@
-Wed Jul 29 00:24:14 2020
+Tue Jul 28 22:52:48 2020
 Windows-8-6.2.9200
 Ren'Py 7.3.5.606
  
@@ -6,12 +6,12 @@ Ren'Py 7.3.5.606
 Bootstrap to the start of init.init took 0.06s
 Early init took 0.00s
 Loader init took 0.01s
-Loading error handling took 0.03s
-Loading script took 0.22s
-Loading save slot metadata. took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.13s
+Loading save slot metadata. took 0.02s
 Loading persistent took 0.00s
 Importing _renpysteam: ImportError('No module named _renpysteam',)
-Running init code took 0.08s
+Running init code took 0.06s
 Loading analysis data took 0.03s
 Analyze and compile ATL took 0.00s
 Index archives took 0.00s
@@ -27,7 +27,7 @@ Init translation took 0.02s
 Build styles took 0.00s
 Load screen analysis took 0.00s
 Analyze screens took 0.01s
-Save screen analysis took 0.06s
+Save screen analysis took 0.05s
 Prepare screens took 0.04s
 Save pyanalysis. took 0.00s
 Save bytecode. took 0.05s
@@ -38,7 +38,7 @@ Interface start took 0.02s
 primary display bounds: (0, 0, 1920, 1080)
 swap interval: 1 frames
 Windowed mode.
-Screen sizes: virtual=(1280, 720) physical=(1739, 978) drawable=(1739, 978)
+Screen sizes: virtual=(1280, 720) physical=(1338, 753) drawable=(1338, 753)
 Vendor: 'NVIDIA Corporation'
 Renderer: 'GeForce GTX 1070/PCIe/SSE2'
 Version: '4.6.0 NVIDIA 451.67'
@@ -451,25 +451,18 @@ Texture testing:
 - 2048px textures work.
 Root FBO is: 0
 FBO Maximum Texture Size: 2048
-Total time until interface ready: 1.33800005913s
+Total time until interface ready: 1.18600010872s
 - Target is 5 frames in 0.333333333333 seconds.
 - Frame drawn at 0.000000 seconds.
 - Frame drawn at 0.007944 seconds.
 - Frame drawn at 0.008945 seconds.
-- Frame drawn at 0.013944 seconds.
-- Frame drawn at 0.021945 seconds.
-- 0.021945 seconds to render 5 frames.
+- Frame drawn at 0.008945 seconds.
+- Frame drawn at 0.017944 seconds.
+- 0.017944 seconds to render 5 frames.
 Cleaning stores took 0.00s
 Init translation took 0.00s
-Build styles took 0.00s
+Build styles took 0.01s
 Load screen analysis took 0.04s
-Analyze screens took 0.00s
-Prepare screens took 0.00s
-Running _start took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.01s
 Analyze screens took 0.00s
 Prepare screens took 0.00s
 Running _start took 0.00s
