@@ -89,7 +89,7 @@ menu:
 
      "Answer.": 
           "You decided to answer the phone."
-		  # Llease note that jumps don't alter the scene.
+          # Please note that jumps don't alter the scene.
           jump flo_carla_opener
 
      "Don't answer.": 
