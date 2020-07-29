@@ -2,9 +2,13 @@
 errors listed below, and try again.
 
 
-File "game/scripts/opener.rpy", line 90: choice menuitem expects a non-empty block.
-    "Answer.": 
-               ^
+File "game/scripts/flo carla opener.rpy", line 13: expected ':' not found.
+    label flo carla opener:
+              ^
+
+File "game/scripts/opener.rpy", line 92: end of line expected.
+    jump flo and carla opener
+             ^
 
 Ren'Py Version: Ren'Py 7.3.5.606
-Tue Jul 28 22:50:45 2020
+Wed Jul 29 00:23:06 2020
