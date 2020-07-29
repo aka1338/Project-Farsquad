@@ -31,10 +31,10 @@ python:
 # Show a background. This uses a placeholder by default, but you can
 # add a file (named either "bg room.png" or "bg room.jpg") to the
 # images directory to show it.
-show bg placeholder("bg")
+show bg messy room
 with dissolve
 
-"You grabbed your phone which was face down on the bed."
+"You grabbed your phone laying face down on the bed."
 
 "You knew where to press the stop alarm button by muscle memory alone."
 
@@ -89,7 +89,8 @@ menu:
 
      "Answer.": 
           "You decided to answer the phone."
-          #jump to flo/carla
+		  # Llease note that jumps don't alter the scene.
+          jump flo_carla_opener
 
      "Don't answer.": 
           "You decided against answering the phone."
@@ -101,5 +102,7 @@ menu:
 #another discord notification rings out.
 
 pov "Huh?"
+
+pov "I swear to god you're gonna make me act up"
 
 return
