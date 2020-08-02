@@ -15,8 +15,6 @@ label start:
 # Letting the player decide their name. 
 define pov = Character("[povname]")
 
-""
-
 python:
     povname = renpy.input("What is your name?")
     povname = povname.strip()
@@ -89,7 +87,7 @@ menu:
 
      "Answer.": 
           "You decided to answer the phone."
-		  # Llease note that jumps don't alter the scene.
+          # Please note that jumps don't alter the scene.
           jump flo_carla_opener
 
      "Don't answer.": 
