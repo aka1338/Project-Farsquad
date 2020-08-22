@@ -1,16 +1,26 @@
-﻿# The script of the game goes in this file.
-
-# Declare characters used by this game. The color argument colorizes the
-# name of the character.
-
-# The game starts here.
-
-# Note that Ren'py does not take in to account order of files and treats the script as one large collection of scripts. 
-# Labels are therefore global, so keep that in mind. 
-
-
+﻿define c = Character("Carla")
+define f = Character ("Flo")
+define u = Character("???")
 
 label flo_carla_opener:
+
+pov "Hello?"
+
+show flo phone at phonepos
+
+f "Hey dude! Where were you?"
+
+f "Are you okay?"
+
+f "Do I need to be worried?"
+
+f "Oh, man god I'm sorry."
+
+f "I'm kind of high right now..."
+
+"You can hear the sound of rustling in the background through the phone."
+
+u "Dude, you're always high."
 
 
 return

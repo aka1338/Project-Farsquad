@@ -1,4 +1,5 @@
-﻿# The script of the game goes in this file.
+﻿
+# The script of the game goes in this file.
 
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
@@ -8,17 +9,21 @@
 # Note that Ren'py does not take in to account order of files and treats the script as one large collection of scripts. 
 # Labels are therefore global, so keep that in mind. 
 
-
+default preferences.text_cps = 142
 
 label start:
 
 # Letting the player decide their name. 
 define pov = Character("[povname]")
+define audio.bedroom = "/music/bedroom.mp3"
+
 
 python:
+    flag1 = False
+    flag2 = False
     povname = renpy.input("What is your name?")
     povname = povname.strip()
-
+    renpy.music.set_volume(.05, delay=0, channel='music')
     if not povname:
          povname = "Default Guy"
 
@@ -45,6 +50,8 @@ pov "..."
 pov "......"
 
 #play discord notif sound here 
+
+play music bedroom fadein 3
 
 pov "Huh?"
 
@@ -156,7 +163,8 @@ menu:
 
 "You make your way downstairs to grab a drink, feeling awfully thirsty."
 
-#change bg here to int kitchen 
+scene bg kitchen 
+with fade
 
 "You make your way to the fridge and open it up, to find a whole box of Truthfully alcoholic seltzers stocked in the fridge. You wonder how that got there."
 
@@ -177,7 +185,7 @@ menu:
 
 pov "just how many things am I going to miss today..."
 
-"You take a look at the calenday onbe more time, and also realize that tonight is the release of that game everyone has been talking about."
+"You take a look at the calendar one more time, and also realize that tonight is the release of that game everyone has been talking about."
 
 "You don't have a preorder to grab the game at tonight's midnight release, but you do know of two other people that will be going for use."
 
@@ -194,13 +202,13 @@ menu:
           # jump Michelle_Noella_opener
 
      "Don't call them.":
-          "You're tired of looking at the calenday and decide that today is just one of those days."
+          "You're tired of looking at the calendar and decide that today is just one of those days."
 
 "You feel bad for leaving your friends alone, but you have an excuse to do so today, anyways."
 
 "You decide to head to the livingroom to snooze the rest of the day away with the TV on."
 
-# change bg here to int livingroom. 
+# change bg here to player livingroom. 
 
 "You head for the couch and turn on the TV, open up your phone and decide to check ByteChat."
 
