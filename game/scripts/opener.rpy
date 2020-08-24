@@ -9,7 +9,7 @@
 # Note that Ren'py does not take in to account order of files and treats the script as one large collection of scripts. 
 # Labels are therefore global, so keep that in mind. 
 
-default preferences.text_cps = 142
+default preferences.text_cps = 51
 
 label start:
 
@@ -34,7 +34,7 @@ python:
 # Show a background. This uses a placeholder by default, but you can
 # add a file (named either "bg room.png" or "bg room.jpg") to the
 # images directory to show it.
-show bg messy room
+scene bg messy room 
 with dissolve
 
 "You grabbed your phone laying face down on the bed."
