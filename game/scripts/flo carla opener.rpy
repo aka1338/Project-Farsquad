@@ -268,13 +268,34 @@ menu:
           "Something about this entire interaction makes you feel slightly offended, but overwhelmed by laughter."
           $flag1 = True
 
-"You motion to Flo to let you get into the car as Flo haphazardly stumbles out of the front seat you let you into the back, as the car only has two doors."
+"You motion to Flo to let you get into the car, who stumbles out of the front seat to let you into the back."
 
-"As you sit down, you realize that your head practically hits the roof of the car when you sit upright."
+"You realize that your head practically hits the roof of the car when you sit upright."
 
-"Flo and Carla are caught up in another conversation that has started up again, as you lay back into your seat."
+"Flo and Carla are caught up in another conversation, as you lay back into your seat."
 
 "You know that the ride to Carla's place is realtively short. But, you feel as if it will take a long, long time."
+
+hide carla 
+with easeoutleft
+
+hide flo
+with easeoutright
+
+#scene bg outside carlas house
+#with dissolve 
+
+show carla happy at cpos1
+with easeinleft
+
+c "...And welcome to my place!"
+
+"Cozy. Haven't been here for a while."
+
+c "I know, right?"
+
+show carla happy 
+with easeoutleft
 
 
 return
